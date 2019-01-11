@@ -3,3 +3,4 @@ data/clean*
 *.orig
 res/*
 evalResults/*
+*.mexa64
